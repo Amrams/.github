@@ -50,11 +50,11 @@ To collaborate, learn, and grow through hands-on coding and real-world projects.
 
 ### 🔁 CI / CD
 <p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" width="40" />
-  <img src="https://www.vectorlogo.zone/logos/gitlab/gitlab-icon.svg" alt="GitLab" width="40" />
-  <img src="https://www.vectorlogo.zone/logos/circleci/circleci-icon.svg" alt="CircleCI" width="40" />
-  <img src="https://www.vectorlogo.zone/logos/bitbucket/bitbucket-icon.svg" alt="Bitbucket" width="40" />
+  <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="Jenkins" width="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub Actions" width="40" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/7/7b/Octopus_Deploy_Logo.png" alt="Octopus Deploy" width="40" />
 </p>
+
 
 ---
 
