@@ -52,7 +52,7 @@ To collaborate, learn, and grow through hands-on coding and real-world projects.
 <p align="left">
   <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="Jenkins" width="40" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub Actions" width="40" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/7/7b/Octopus_Deploy_Logo.png" alt="Octopus Deploy" width="40" />
+  <img src="https://cdn.worldvectorlogo.com/logos/octopus-deploy.svg" alt="Octopus Deploy" width="40" />
 </p>
 
 
