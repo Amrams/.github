@@ -1,4 +1,4 @@
-# 👋 Welcome to **Amrams Devs 🇮🇱**
+# 👋 Welcome to **Amrams Devs** <img src="https://em-content.zobj.net/thumbs/120/apple/354/flag-israel_1f1ee-1f1f1.png" width="24" />
 
 
 We are a passionate group of developers building open-source tools, full-stack applications, and creative solutions for modern challenges.
